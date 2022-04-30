@@ -1,0 +1,12 @@
+{
+"companyName": "Redefinition Games",
+"productName": "The Very Organized Thief",
+"dataUrl": "67b4da09a638e36480d404a4005db8eb.unityweb",
+"wasmCodeUrl": "95d2223e0a49f91b7304d55a48e8777b.unityweb",
+"wasmFrameworkUrl": "e4a49f24ee2e0313c1a0503a0d8d703a.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
